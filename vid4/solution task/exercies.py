@@ -13,7 +13,7 @@ def predict_sklean():
 def gradient_descent(x,y):
     m_curr = 0
     b_curr = 0
-    iterations = 1000
+    iterations = 10000
     n = len(x)
     learning_rate = 0.0002
 
