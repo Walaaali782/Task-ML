@@ -4,3 +4,9 @@ Task 6
 ![image](https://github.com/user-attachments/assets/2437801f-e475-44e3-b6c8-58ec288dacb0)
 Task7
 ![image](https://github.com/user-attachments/assets/863cb262-a77e-4112-a185-f37af8a0e942)
+
+Task-exe
+![image](https://github.com/user-attachments/assets/a8bd73e4-273a-4288-abb5-64558bc5e306)
+![image](https://github.com/user-attachments/assets/80793f76-e746-4d97-a9ce-3a22ecd563f5)
+
+
